@@ -1,0 +1,8 @@
+1.realtive stablity pegged to $1
+   #chainlink pricefeed
+   #Set a fx to exchange ETH&BTC-->$$
+2.stablitymechanism(minting):Algorithmic
+   #people can only mint the stable coin with enough collateral
+3.collateral :Exogenous
+   1. wETH
+   2. wBTC
